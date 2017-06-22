@@ -6,6 +6,6 @@ def conquer(left, right):
 def divider(data_array):
 	length = len(data_array)
 	if(length==0 or length==1): return data_array
-	left=divider(data_array[:length/2] if length%2==0 else data_array[:length/2+1])
-	right=divider(data_array[length/2:] if length%2==0 else data_array[length/2+1:])
+	left=divider(data_array[:length//2] if length%2==0 else data_array[:length//2+1])
+	right=divider(data_array[length//2:] if length%2==0 else data_array[length//2+1:])
 	return conquer(left,right)
