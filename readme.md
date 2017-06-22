@@ -1,5 +1,5 @@
 # sorting algorithm implementation
-In here I implement divider and conquer algorithm
+In here I implement divider and conquer algorithm. This code can be ran on either python 2.7 or python 3.5, since I modify length/2 into length//2.
 
 ## how to run my code 
 ```bash
