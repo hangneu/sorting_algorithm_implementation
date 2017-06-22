@@ -1,7 +1,8 @@
-# this is test for readme.md# 
-this is for compare above language
+# sorting algorithm implementation
+In here I implement divider and conquer algorithm
 
-## double check what is ##
+## how to run my code 
+two methods
 ```bash
 # run python file method
 # first input "pythonto get into the python environment"
