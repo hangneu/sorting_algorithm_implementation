@@ -13,3 +13,4 @@ from merge_sort import divider
 divider([1,7,4,2])
 [1,2,4,7]
 ```
+In here, I present two versions merge sort algorithm code. The file "merge_sort_1.py" contains normal code form. The file "merge_sort.py" present more comapct version. After I test two versions code. The result tells me the "merge_sort_1.py" present better efficiency.
